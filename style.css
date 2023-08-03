@@ -1,0 +1,18 @@
+body{
+    background-color: hsl(33, 100%, 88%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+header{
+    text-align: center;
+}
+main{
+    color: azure;
+}
+paragraph{
+    text-align: center;
+}
+img{
+    padding:12px 12px ;
+    margin: 9px 500px;
+}
